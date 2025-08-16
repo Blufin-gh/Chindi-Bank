@@ -1,0 +1,7 @@
+{
+  "name": "QuickBank QR Service",
+  "description": "A modern banking app that generates QR codes for customers to perform quick in-branch transactions, eliminating paperwork and queues.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
